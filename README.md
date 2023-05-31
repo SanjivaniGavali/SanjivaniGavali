@@ -1,4 +1,5 @@
-### Hi there I am  <h1 align="center">Sanjivani Gavali</h1>
+### Hi there,
+<h1 align="center">Sanjivani Gavali</h1>
 
 ## I'm a Budding Programmer and Developement Enthusiast!!
 
@@ -21,7 +22,7 @@
 - 2019 - 2023
 - Cumulative Performance Index (CPI): 9.34
 
-<!-- ## 💻 Technical Skills
+## 💻 Technical Skills
 - Programming:
   - Java
   - JavaScript
@@ -31,31 +32,8 @@
 - Frameworks:
   - J2EE
   - React
-- Other Skills:
-  - MySQL
-  - Git
-  - Intellij
-  - VS Code
- -->
-<p align="center">
-  <img src="https://your-image-url.com/java-logo.png" alt="Java" width="50" height="50" />
-  <img src="https://your-image-url.com/javascript-logo.png" alt="JavaScript" width="50" height="50" />
-  <img src="https://your-image-url.com/sql-logo.png" alt="SQL" width="50" height="50" />
-  <img src="https://your-image-url.com/html-logo.png" alt="HTML" width="50" height="50" />
-  <img src="https://your-image-url.com/css-logo.png" alt="CSS" width="50" height="50" />
-</p>
 
-<p align="center">
-  <img src="https://your-image-url.com/j2ee-logo.png" alt="J2EE" width="50" height="50" />
-  <img src="https://your-image-url.com/react-logo.png" alt="React" width="50" height="50" />
-</p>
 
-<p align="center">
-  <img src="https://your-image-url.com/mysql-logo.png" alt="MySQL" width="50" height="50" />
-  <img src="https://your-image-url.com/git-logo.png" alt="Git" width="50" height="50" />
-  <img src="https://your-image-url.com/intellij-logo.png" alt="Intellij" width="50" height="50" />
-  <img src="https://your-image-url.com/vscode-logo.png" alt="VS Code" width="50" height="50" />
-</p>
 
 
 
